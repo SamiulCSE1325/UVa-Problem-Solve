@@ -1,1 +1,1 @@
-# UVa-Problem-Solve
+Problem solution from UVa Problem solving platform
